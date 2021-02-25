@@ -17,4 +17,4 @@ A basic frontend React app scaffold that includes the following tools:
 ### Get Started
 
 1. Install Node Modules `npm i`
-2. Run Webpack Dev Server `npm run start`
+2. Run Webpack Dev Server `npm run watch`
